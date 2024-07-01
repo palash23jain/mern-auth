@@ -1,0 +1,22 @@
+.main {
+    display: flex;
+    justify-content: space-around;
+    background-color: #D3D3D3;
+}
+
+.right {
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+ul li {
+    font-size: 1.2rem;
+    margin-right: 1rem;
+
+}
+
+.heading{
+    font-size: 2rem;
+    font-weight: 600;
+}
